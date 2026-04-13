@@ -57,6 +57,15 @@ This project explores global sugarcane production data, including cleaning, univ
 - Continental differences shaped by few dominant countries
 
 ---
+---
+
+## 📊 Interactive Profiling Report
+
+Explore the complete automated EDA report generated using Pandas Profiling:
+
+👉 [View Full Report](https://htmlpreview.github.io/?https://github.com/satyampandeyjii/Project--Sugarcane-Production/blob/main/sugarcane%20data%20in%20web.html)
+
+---
 
 ## 📁 Structure
 
